@@ -1,0 +1,39 @@
+{
+  "name": "nefta-extension-pack",
+  "displayName": "nefta_extension_pack",
+  "publisher": "NeftaRj",
+  "description": "nefta-extension-pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "aaron-bond.better-comments", 
+    "Angular.ng-template", 
+    "burkeholland.simple-react-snippets", 
+    "christian-kohler.npm-intellisense", 
+    "dbaeumer.vscode-eslint", 
+    "dsznajder.es7-react-js-snippets", 
+    "eamodio.gitlens", 
+    "ecmel.vscode-html-css", 
+    "esbenp.prettier-vscode", 
+    "formulahendry.auto-close-tag", 
+    "Gruntfuggly.activitusbar", 
+    "Gruntfuggly.todo-tree", 
+    "jakob101.RelativePath", 
+    "jock.svg", 
+    "ms-azuretools.vscode-docker", 
+    "ms-vscode-remote.remote-containers", 
+    "pranaygp.vscode-css-peek", 
+    "Prisma.prisma", 
+    "ritwickdey.LiveServer", 
+    "shd101wyy.markdown-preview-enhanced", 
+    "vscode-icons-team.vscode-icons", 
+    "wix.vscode-import-cost", 
+    "xabikos.JavaScriptSnippets", 
+    "yzhang.markdown-all-in-one"
+  ]
+}
